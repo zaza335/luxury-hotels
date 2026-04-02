@@ -1,0 +1,19 @@
+.btn-primary {
+  background-color: #c9a84c;
+  color: white;
+  padding: 12px 28px;
+  border-radius: 4px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  display: inline-block;
+  transition: 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #a08030;
+  color: white;
+  transform: scale(1.05);
+}
